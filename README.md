@@ -1,4 +1,4 @@
-# Instagram Post
+# University Website Demo
 
 ![logo](https://github.com/imlilac/instagram-card/blob/main/img/banner.jpg)
 
