@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/imlilac/instagram-card/blob/main/img/banner.jpg)
 
-Designing a simple instagram card using HTML5 & CSS.
+Designing a simple university website using HTML5 & CSS.
 
 ## Table of contents
 
@@ -18,7 +18,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/imlilac/instagram-card/blob/main/img/screen-1.png)
+![](https://github.com/imlilac/university-demo/blob/main/secreenshot%20(1).png)
+
+![](https://github.com/imlilac/university-demo/blob/main/secreenshot%20(2).png)
+
+![](https://github.com/imlilac/university-demo/blob/main/secreenshot%20(3).png)
+
+![](https://github.com/imlilac/university-demo/blob/main/screen%20(2).png)
+
+![](https://github.com/imlilac/university-demo/blob/main/screen%20(1).png)
 
 ## My process
 
