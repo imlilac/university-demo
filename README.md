@@ -24,8 +24,6 @@ Users should be able to:
 
 ![](https://github.com/imlilac/university-demo/blob/main/secreenshot%20(3).png)
 
-![](https://github.com/imlilac/university-demo/blob/main/screen%20(2).png)
-
 ![](https://github.com/imlilac/university-demo/blob/main/screen%20(1).png)
 
 ## My process
