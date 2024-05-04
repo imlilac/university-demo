@@ -10,11 +10,6 @@ Designing a simple university website using HTML5 & CSS.
 -  [Screenshot](#screenshot)
 -  [Built with](#built-with)
 
-## Challenge
-
-Users should be able to:
-
--  View the optimal layout for the site
 
 ### Screenshot
 
