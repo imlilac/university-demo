@@ -4,13 +4,6 @@
 
 Designing a simple university website using HTML5 & CSS.
 
-## Table of contents
-
--  [The challenge](#the-challenge)
--  [Screenshot](#screenshot)
--  [Built with](#built-with)
-
-
 ### Screenshot
 
 ![](https://github.com/imlilac/university-demo/blob/main/secreenshot%20(1).png)
